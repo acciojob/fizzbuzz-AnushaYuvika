@@ -1,7 +1,7 @@
 //your JS code here. If required.
 let ouput = "";
 
-for (let i=1; i<=100; i++) {
+for (let i=1; i<=20; i++) {
 	if (i % 3 == 0 && i % 5 == 0) {
 		output += "FizzBuzz\n";
 	} else if (i & 3 == 0) {
